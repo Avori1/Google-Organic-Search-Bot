@@ -1,8 +1,6 @@
 # Google Search Traffic BOT
 
-- Indonesia: Ini adalah blog untuk menghasilkan traffic dari google organic search.
-
-- Translated By Google: This is a blog to generate traffic from google organic search.
+- This is a bot that generates prganic traffic from Google Search.
 
 ## System
 
@@ -34,16 +32,11 @@ pip install -r ./requirements.txt
 py ./main.py
 ```
 
-## Kamus
+## Definitions
 
-1. **_keyword_** = Keyword yang akan dicari
-2. **_website_uri_** = Url artikel anda yang dicari
-3. **_use_proxy_** = Menggunakan rotating proxy atau tidak
-4. **_amount_** = Jumlah traffic (jika tidak menggunakan proxy)
-5. **_headless_** = Menampilkan browser atau tidak
-6. **_interval_** = Selang waktu
-
-## Dukung saya di
-
-[Saweria](https://saweria.co/yukebrillianth)
-[SociaBuzz](https://sociabuzz.com/yukebrillianth/tribe)
+1. **_keyword_** = Keywords to be searched
+2. **_website_uri_** = The Url of the article you are looking for
+3. **_use_proxy_** = Using rotating proxy or not
+4. **_amount_** = Amount of traffic (if not using a proxy)
+5. **_headless_** = Show browser or not
+6. **_interval_** = Time lapse
